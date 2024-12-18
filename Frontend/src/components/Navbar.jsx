@@ -39,12 +39,12 @@ const Navbar = () => {
             </Link>
           </li>
           <li>
-            <Link 
+            {/* <Link 
               to="/portfolio" 
               className="text-black hover:bg-red-600 px-4 py-2 rounded-lg transition duration-300"
             >
               Portfolio
-            </Link>
+            </Link> */}
           </li>
         </ul>
       </div>
